@@ -1,2 +1,2 @@
 # portfolio_flutter
-portfolio project using flutte
+portfolio project using flutter
